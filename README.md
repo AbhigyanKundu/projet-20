@@ -1,2 +1,2 @@
-# projet-20
-Project on Visual Code studio GCSO
+# p5.play-boilerplate
+Boiler plate for p5.play
